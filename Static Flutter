@@ -10,14 +10,14 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         home: Scaffold(
-      backgroundColor: Colors.teal,
+      backgroundColor: Colors.blueGrey[800],
       body: SafeArea(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             CircleAvatar(
               radius: 80.0,
-              backgroundImage: AssetImage('images/archer.png'),
+              backgroundImage: AssetImage('images/insert.png'),
             ),
             //for fonts go to fonts.google.com
             Text('John Doe',
@@ -81,6 +81,7 @@ class MyApp extends StatelessWidget {
     ));
   }
 }
+
 
 
 //------------------------------------------------------------
