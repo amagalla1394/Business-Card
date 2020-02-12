@@ -100,4 +100,4 @@ flutter:
 
     - family: SourceSansPro
       fonts:
-        - asset: fonts/SourceSansPro-Regular.tt
+        - asset: fonts/SourceSansPro-Regular.ttf
