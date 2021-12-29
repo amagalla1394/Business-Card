@@ -83,8 +83,6 @@ class MyApp extends StatelessWidget {
 }
 
 
-
-
 //------------------------------------------------------------
 //'pubspec.yaml' flutter containment example for this project
 //------------------------------------------------------------
