@@ -81,23 +81,3 @@ class MyApp extends StatelessWidget {
     ));
   }
 }
-
-
-//------------------------------------------------------------
-//'pubspec.yaml' flutter containment example for this project
-//------------------------------------------------------------
-
-flutter:
-  uses-material-design: true
-
-  assets:
-    - images/
-
-  fonts:
-    - family: DancingScript
-      fonts:
-        - asset: fonts/DancingScript-variableFont_wght.ttf
-
-    - family: SourceSansPro
-      fonts:
-        - asset: fonts/SourceSansPro-Regular.ttf
